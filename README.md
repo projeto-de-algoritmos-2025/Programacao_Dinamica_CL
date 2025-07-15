@@ -33,7 +33,7 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 
 ## Gravação
 
-[Link para a gravação]()
+[Link para a gravação](https://youtu.be/3aLpcr8yAbA)
 
 ## Disciplina
 
