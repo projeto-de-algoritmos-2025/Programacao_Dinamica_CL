@@ -17,3 +17,4 @@ Média
 
 ## Submissões
 
+<img width="743" height="439" alt="image" src="https://github.com/user-attachments/assets/40115538-1eb8-48a2-a827-475394a048c4" />
