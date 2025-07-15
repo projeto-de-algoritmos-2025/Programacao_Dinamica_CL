@@ -28,8 +28,8 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 | :--: | -- | :--: | -- |
 | 1 | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | Média | Lucas Ribeiro de Souza |
 | 2 | [546. Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) | Difícil | Lucas Ribeiro de Souza |
-| 3 |  | Difícil | João Víctor Costa Andrade |
-| 4 |  | Média | João Víctor Costa Andrade |
+| 3 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | Média | João Víctor Costa Andrade |
+| 4 | [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/description/?envType=problem-list-v2&envId=dynamic-programming) | Difícil | João Víctor Costa Andrade |
 
 ## Gravação
 
