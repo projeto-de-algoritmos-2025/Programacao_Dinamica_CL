@@ -19,3 +19,4 @@ Difícil
 
 ## Submissões
 
+<img width="705" height="461" alt="image" src="https://github.com/user-attachments/assets/6d4498a3-b343-49f4-a3f5-899571d4f118" />
