@@ -1,3 +1,5 @@
+# 983. Minimum Cost For Tickets
+
 ## Questão
 
 A questão foi resolvida no LeetCode, onde você pode conferir o enunciado completo.
